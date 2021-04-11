@@ -1,15 +1,13 @@
 {
-    "name": "mateo/autoload",
-    "description": "quete autoload",
-    "type": "project",
+    "name": "matt/ehim",
+    "description": "My first composer project",
+    "type": "no",
     "authors": [
         {
             "name": "Matthieu",
             "email": "matthieudejean@hotmail.com"
         }
     ],
-    "require": {},
-    "autoload": {
-        "psr-4": {"Hello\\": "src/Wcs"}
-    }
+    "minimum-stability": "dev",
+    "require": {}
 }
