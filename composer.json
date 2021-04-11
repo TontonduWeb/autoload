@@ -1,0 +1,15 @@
+{
+    "name": "mateo/autoload",
+    "description": "quete autoload",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Matthieu",
+            "email": "matthieudejean@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Hello\\": "src/Wcs"}
+    }
+}
